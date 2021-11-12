@@ -16,7 +16,7 @@ The datasets used have been undersampled to give an even number of high risk and
 
 <hr>
 
-## Preprocessing (unscaled data)
+## Preprocessing
 
 ### Prediction - Logistic Regression vs. Random Forest (unscaled)
 The dataset we are using is highly categorical and non-linear. 
