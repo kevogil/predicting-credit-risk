@@ -30,7 +30,7 @@ The result was in line with the initial prediction of a random forest being more
 
 <hr>
 
-### Revisit the Preprocessing: Scale the data
+## Revisit the Preprocessing: Scale the data
 
 ### Prediction - Logistic Regression vs. Random Forest (scaled)
 Random forest models do not require the data to be scaled and so will not see much of a change from the data being scaled.
