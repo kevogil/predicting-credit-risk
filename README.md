@@ -40,3 +40,4 @@ The logistic regression model shows a test score improvement of 0.25.
 The results are in line with the initial prediction that scaling has a significant impact on logistic regression models, with little to no impact on random forest models.
 With an unscaled dataset, the random forest was resulting in a higher test score compared to logistic regression.
 However, after scaling, logistic regression yielded a higher result than random forest, showing that a properly scaled data on a simpler model could be more effective than complex decision tree models like random forests.
+hi
